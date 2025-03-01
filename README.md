@@ -7,6 +7,8 @@
   </head>
   <body>
     <h1>Welcome to My Bio Page</h1>
+    <summary>
     <p>This is my first Github project</p>
+    </summary>
   </body>
 </html>
