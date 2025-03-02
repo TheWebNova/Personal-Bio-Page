@@ -8,7 +8,7 @@
   <body>
     <h1>Welcome to My Bio Page</h1>
     <summary>
-    <p>This is my first Github project</p>
+    <p>My name is WebNova and I'm an Aspiring web developer </p>
     </summary>
   </body>
 </html>
