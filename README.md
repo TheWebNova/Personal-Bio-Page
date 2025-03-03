@@ -12,12 +12,3 @@
     </summary>
   </body>
 </html>
-
-<style>
- body{
-  background-color: #ccc;
-  font-family: Arial, sans-serif;
-  color: white;
-}
-
-</style>
